@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+}
+
+h1 {
+  color: red;
+  padding: 20px;
+}
+
+body {
+  margin: 5px 40px;
+}
+
+form {
+  background-color: rgb(202, 231, 230);
+  padding: 20px;
+  width: 600px;
+}
